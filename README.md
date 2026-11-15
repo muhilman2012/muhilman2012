@@ -12,7 +12,9 @@
 
 ## About Me
 
-I'm a **Laravel Developer with 4+ years of experience** building reliable, maintainable, and scalable web applications. I enjoy turning complex business requirements into clean backend systems, well-structured APIs, and practical products that are easy to maintain.
+I'm a **Laravel Developer with 4+ years of experience** building reliable, maintainable, and scalable web applications. One of my key projects is **Lapor Mas Wapres**, a government public complaint management platform integrated with Dukcapil and LAPOR!, which I independently developed and have maintained in production for more than two years.
+
+I enjoy turning complex business requirements into clean backend systems, well-structured APIs, and practical products that are secure and easy to maintain.
 
 - 🔭 Building and improving web applications with **Laravel & PHP**
 - 🧩 Experienced in backend architecture, REST APIs, database design, and third-party integrations
@@ -20,6 +22,21 @@ I'm a **Laravel Developer with 4+ years of experience** building reliable, maint
 - 🌱 Continuously exploring better engineering practices and modern Laravel features
 - 🌏 Based in Indonesia
 - 💬 Ask me about **Laravel, PHP, MySQL, APIs, or backend development**
+
+## Featured Experience
+
+### Lapor Mas Wapres — Public Complaint Management Platform
+
+Lapor Mas Wapres is a government digital service for processing and managing public complaints. I independently developed the application and have maintained it as a production system for more than two years.
+
+- Developed and maintained the application using **Laravel and PHP**
+- Integrated the platform with **Dukcapil and LAPOR!**
+- Built workflows for complaint intake, verification, classification, tracking, and reporting
+- Designed and maintained backend services, databases, APIs, and system integrations
+- Supported the platform in a real-world production environment for **2+ years**
+- Focused on reliability, data security, performance, and long-term maintainability
+
+**Category:** GovTech · Complaint Management · Enterprise Application · System Integration
 
 ## Tech Stack
 
