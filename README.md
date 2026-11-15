@@ -1,16 +1,73 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hilman</h1>
-<h3 align="center">A Junior Web Developer from Purwokerto, Indonesia</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Laravel, Fllutter**
+# Hi, I'm Muhammad Hilman 👋
 
-- 👨‍💻 All of my projects are available at [https://muhilman.my.id/](https://muhilman.my.id/)
+### Laravel Developer · PHP Backend Engineer · Indonesia 🇮🇩
 
-- 📫 How to reach me **hmu@muhilman.my.id**
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhilman.my.id-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhilman.my.id/)
+[![Email](https://img.shields.io/badge/Email-hmu%40muhilman.my.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmu@muhilman.my.id)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhilman2012&style=for-the-badge&color=FF2D20)](https://github.com/muhilman2012)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/anotherhilman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anotherhilman" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## About Me
+
+I'm a **Laravel Developer with 4+ years of experience** building reliable, maintainable, and scalable web applications. I enjoy turning complex business requirements into clean backend systems, well-structured APIs, and practical products that are easy to maintain.
+
+- 🔭 Building and improving web applications with **Laravel & PHP**
+- 🧩 Experienced in backend architecture, REST APIs, database design, and third-party integrations
+- ⚡ Focused on clean code, performance, security, and maintainability
+- 🌱 Continuously exploring better engineering practices and modern Laravel features
+- 🌏 Based in Indonesia
+- 💬 Ask me about **Laravel, PHP, MySQL, APIs, or backend development**
+
+## Tech Stack
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## What I Work With
+
+```text
+Backend          Laravel, PHP, REST API
+Database         MySQL, database design, query optimization
+Frontend         JavaScript, HTML, CSS, Bootstrap
+Dev Tools        Git, Docker, Linux, Postman
+Engineering      Clean code, security, performance, maintainability
+```
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhilman2012&show_icons=true&theme=transparent&hide_border=true&title_color=FF2D20&icon_color=FF2D20&text_color=64748B" alt="Muhammad Hilman's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhilman2012&layout=compact&theme=transparent&hide_border=true&title_color=FF2D20&text_color=64748B" alt="Muhammad Hilman's most used languages" />
+
+</div>
+
+## Let's Connect
+
+I'm open to discussing Laravel, backend engineering, collaboration, and interesting web projects.
+
+- 🌐 Portfolio: [muhilman.my.id](https://muhilman.my.id/)
+- ✉️ Email: [hmu@muhilman.my.id](mailto:hmu@muhilman.my.id)
+- 💻 GitHub: [@muhilman2012](https://github.com/muhilman2012)
+
+<div align="center">
+
+_Thanks for visiting my profile. Feel free to explore my repositories!_
+
+</div>
