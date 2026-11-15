@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Hilman 👋
 
-### Laravel Developer · PHP Backend Engineer · Indonesia 🇮🇩
+### Senior Laravel Developer · Backend Engineer · GovTech & System Integration
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhilman.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhilman.com/)
 [![Email](https://img.shields.io/badge/Email-muhi7714%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhi7714@gmail.com)
@@ -12,16 +12,17 @@
 
 ## About Me
 
-I'm a **Laravel Developer with 4+ years of experience** building reliable, maintainable, and scalable web applications. One of my key projects is **Lapor Mas Wapres**, a government public complaint management platform integrated with Dukcapil and LAPOR!, which I independently developed and have maintained in production for more than two years.
+I'm a **Senior Laravel Developer with 4+ years of experience** designing, building, modernizing, and maintaining reliable production web applications. I turn complex business requirements into secure backend systems, well-structured APIs, and practical solutions that are scalable and easy to maintain.
 
-I enjoy turning complex business requirements into clean backend systems, well-structured APIs, and practical products that are secure and easy to maintain.
+One of my key projects is **Lapor Mas Wapres**, a government public complaint management platform integrated with Dukcapil and LAPOR!. I independently developed the application and have maintained it in production for more than two years. After evaluating its first year of operation, I initiated and led the development of **LMW v2**, introducing architectural improvements, redesigned operational workflows, and UI/UX enhancements to help complaint managers work more efficiently.
 
-- 🔭 Building and improving web applications with **Laravel & PHP**
-- 🧩 Experienced in backend architecture, REST APIs, database design, and third-party integrations
-- ⚡ Focused on clean code, performance, security, and maintainability
-- 🌱 Continuously exploring better engineering practices and modern Laravel features
+- 🏗️ Experienced in system architecture, REST APIs, database design, and third-party integrations
+- 🧭 Responsible for technical decision-making, modernization planning, and production troubleshooting
+- 🧪 Experienced in application testing, mentoring, and long-term system maintenance
+- ⚡ Focused on clean code, security, performance, reliability, and maintainability
+- 🌱 Continuously exploring modern Laravel features and better engineering practices
 - 🌏 Based in Indonesia
-- 💬 Ask me about **Laravel, PHP, MySQL, APIs, or backend development**
+- 💬 Ask me about **Laravel, PHP, MySQL, APIs, GovTech, or backend development**
 
 ## Featured Experience
 
