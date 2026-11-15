@@ -4,8 +4,8 @@
 
 ### Laravel Developer · PHP Backend Engineer · Indonesia 🇮🇩
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhilman.my.id-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhilman.my.id/)
-[![Email](https://img.shields.io/badge/Email-hmu%40muhilman.my.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmu@muhilman.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhilman.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhilman.com/)
+[![Email](https://img.shields.io/badge/Email-muhi7714%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhi7714@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=muhilman2012&style=for-the-badge&color=FF2D20)](https://github.com/muhilman2012)
 
 </div>
@@ -53,8 +53,10 @@ Engineering      Clean code, security, performance, maintainability
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhilman2012&show_icons=true&theme=transparent&hide_border=true&title_color=FF2D20&icon_color=FF2D20&text_color=64748B" alt="Muhammad Hilman's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhilman2012&layout=compact&theme=transparent&hide_border=true&title_color=FF2D20&text_color=64748B" alt="Muhammad Hilman's most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhilman2012&theme=github" alt="Muhammad Hilman's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhilman2012&theme=github" alt="Muhammad Hilman's most used languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhilman2012&theme=github" alt="Muhammad Hilman's contribution activity" />
 
 </div>
 
@@ -62,8 +64,8 @@ Engineering      Clean code, security, performance, maintainability
 
 I'm open to discussing Laravel, backend engineering, collaboration, and interesting web projects.
 
-- 🌐 Portfolio: [muhilman.my.id](https://muhilman.my.id/)
-- ✉️ Email: [hmu@muhilman.my.id](mailto:hmu@muhilman.my.id)
+- 🌐 Portfolio: [muhilman.com](https://muhilman.com/)
+- ✉️ Email: [muhi7714@gmail.com](mailto:muhi7714@gmail.com)
 - 💻 GitHub: [@muhilman2012](https://github.com/muhilman2012)
 
 <div align="center">
